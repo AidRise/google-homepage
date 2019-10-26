@@ -15,3 +15,4 @@ Future Updates
 - Add icons in search textbox
 - Fix styling of buttons to resemble more like Google page
 - Possibly make all contents responsive
+- Also for bonus create the Google search results page as specified by TOP
